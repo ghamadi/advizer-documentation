@@ -1,5 +1,6 @@
 # Documentation for Advizer
-- [Documentation for Advizer](#documentation-for-advizer)
+
+## Table of Contents
   * [Introduction](#introduction)
   * [Terminology](#terminology)
       - [Program](#program)
