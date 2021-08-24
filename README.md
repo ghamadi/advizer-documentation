@@ -1,4 +1,28 @@
 # Documentation for Advizer
+- [Documentation for Advizer](#documentation-for-advizer)
+  * [Introduction](#introduction)
+  * [Terminology](#terminology)
+      - [Program](#program)
+      - [Plan](#plan)
+      - [Requirement](#requirement)
+  * [How it Works](#how-it-works)
+  * [The Evaluation Tool in Details](#the-evaluation-tool-in-details)
+    + [Form's Input Fields](#form-s-input-fields)
+    + [Modes of Evaluation](#modes-of-evaluation)
+      - [1. Separate Plans](#1-separate-plans)
+      - [2. Merged Requirements](#2-merged-requirements)
+    + [The Requirements Set](#the-requirements-set)
+    + [Evaluation Results (Unsaved Applications)](#evaluation-results--unsaved-applications-)
+    + [List of Saved Applications](#list-of-saved-applications)
+    + [Application Details](#application-details)
+      - [1. Evaluation Details](#1-evaluation-details)
+      - [2. Application Info](#2-application-info)
+      - [3. Evaluation Result & Final Decision](#3-evaluation-result---final-decision)
+      - [4. Display Controllers](#4-display-controllers)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+---
 
 ## Introduction
 
