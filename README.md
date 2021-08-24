@@ -127,9 +127,9 @@ Upon saving an evaluation result, the following process occurs in order:
 - Otherwise, a new application is created with the corresponding data and the `final decision` field set to `pending`
 - Once an application is created, it is encrypted using a 256-bit key that is uniquely generated for each user and never shared with the server, and then saved encrypted in the database.
 
-Note here that applications are _only_ accessible to their originator (even the system's admin cannot decrypt these records as they are treated as private information since they contain student names, desired major, and course grades).
+>Note here that applications are _only_ accessible to their originator (even the system's admin cannot decrypt these records as they are treated as private information since they contain student names, desired major, and course grades).
 
-Because the encryption/decryption key is only accessible to the user, resetting a forgotten password will lead to deleting the stored applications. This is by design to protect private information. The programs and plans will not be affected.
+>Because the encryption/decryption key is only accessible to the user, resetting a forgotten password will lead to deleting the stored applications. This is by design to protect private information. The programs and plans will not be affected.
 
 ---
 
@@ -186,7 +186,7 @@ There are **_four_** settings to control how evaluation results are displayed. A
 
    When **_on_**, displays icons only at the highest and lowest levels of the evaluation tree only
 
-   Sometimes showing all icons when several requirements are expanded leads to a confusing view
+   >Sometimes showing all icons when several requirements are expanded leads to a confusing view
 
 3. **Minimal details:**
 
